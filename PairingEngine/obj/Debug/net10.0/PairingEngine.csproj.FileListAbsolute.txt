@@ -1,0 +1,14 @@
+C:\Users\Vernord\RiderProjects\PairingEngine\PairingEngine\bin\Debug\net10.0\PairingEngine.exe
+C:\Users\Vernord\RiderProjects\PairingEngine\PairingEngine\bin\Debug\net10.0\PairingEngine.deps.json
+C:\Users\Vernord\RiderProjects\PairingEngine\PairingEngine\bin\Debug\net10.0\PairingEngine.runtimeconfig.json
+C:\Users\Vernord\RiderProjects\PairingEngine\PairingEngine\bin\Debug\net10.0\PairingEngine.dll
+C:\Users\Vernord\RiderProjects\PairingEngine\PairingEngine\bin\Debug\net10.0\PairingEngine.pdb
+C:\Users\Vernord\RiderProjects\PairingEngine\PairingEngine\obj\Debug\net10.0\PairingEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vernord\RiderProjects\PairingEngine\PairingEngine\obj\Debug\net10.0\PairingEngine.AssemblyInfoInputs.cache
+C:\Users\Vernord\RiderProjects\PairingEngine\PairingEngine\obj\Debug\net10.0\PairingEngine.AssemblyInfo.cs
+C:\Users\Vernord\RiderProjects\PairingEngine\PairingEngine\obj\Debug\net10.0\PairingEngine.csproj.CoreCompileInputs.cache
+C:\Users\Vernord\RiderProjects\PairingEngine\PairingEngine\obj\Debug\net10.0\PairingEngine.dll
+C:\Users\Vernord\RiderProjects\PairingEngine\PairingEngine\obj\Debug\net10.0\refint\PairingEngine.dll
+C:\Users\Vernord\RiderProjects\PairingEngine\PairingEngine\obj\Debug\net10.0\PairingEngine.pdb
+C:\Users\Vernord\RiderProjects\PairingEngine\PairingEngine\obj\Debug\net10.0\PairingEngine.genruntimeconfig.cache
+C:\Users\Vernord\RiderProjects\PairingEngine\PairingEngine\obj\Debug\net10.0\ref\PairingEngine.dll
