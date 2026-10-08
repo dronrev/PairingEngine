@@ -60,7 +60,7 @@ public class StandingRow
 public class RoundTournament
 {
     public required int RoundNumber { get; init; }
-    public GameDetails GameDetails { get; set; } = new();
+    public List<GameDetails> GameDetailsList { get; set; } = [];
 }
 
 public class GameDetails
