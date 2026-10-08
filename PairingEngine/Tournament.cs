@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+
 namespace PairingEngine;
 
 public enum GameResult { Pending, WhiteWin, BlackWin, Draw }
